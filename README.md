@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚌 UniTrack (Campus Transit)
 
 A state-of-world, premium web application for real-time bus location sharing and tracking, tailored specifically for university campuses. Built with React, Vite, Appwrite, and the OLA Maps SDK.
@@ -69,3 +70,6 @@ Navigate to `http://localhost:5173` to view the application!
 ## 👨‍💻 Development Notes
 - Routes and Stops are currently seeded in `src/lib/constants.js`.
 - Location sharing logic is centralized in `src/hooks/useRealtime.js`.
+=======
+# Bus-Tracking-system
+>>>>>>> 92fdebc8290b58f4e2655630f41f9c06daa2ef5d
